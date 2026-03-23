@@ -31,12 +31,12 @@ const PrivacyPolicyModal = ({ isOpen, onClose }: PrivacyPolicyModalProps) => {
 
         {/* Content */}
         <div className="p-6 overflow-y-auto text-white space-y-6">
-          <p className="text-gray-400 text-sm">Last updated: November 16, 2025</p>
+          <p className="text-gray-400 text-sm">Last updated: March 16, 2026</p>
 
           <div className="space-y-4">
             <p className="text-gray-300 leading-relaxed">
               This Privacy Policy describes how your personal information is collected, used, 
-              and shared when you visit Spynect (the "Site").
+              and shared when you visit Spyface (the "Site").
             </p>
 
             <div>
