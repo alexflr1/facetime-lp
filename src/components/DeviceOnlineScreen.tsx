@@ -1,4 +1,3 @@
-
 import { useState } from "react";
 import { User, History, Video } from "lucide-react";
 import cameraView from "@/assets/camera-view.jpg";
