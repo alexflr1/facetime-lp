@@ -1,3 +1,4 @@
+
 import { useState } from "react";
 import { User, History, Video } from "lucide-react";
 import cameraView from "@/assets/camera-view.jpg";
@@ -53,7 +54,7 @@ const DeviceOnlineScreen = ({ onClose }: DeviceOnlineScreenProps) => {
         <div className="absolute inset-0 bg-black/30" />
         
         <div className="absolute top-4 left-4 z-10">
-          <h1 className="text-base font-bold text-foreground">Spyface </h1>
+          <h1 className="text-base font-bold text-foreground">Spynect</h1>
         </div>
         
         <div className="relative h-full flex flex-col px-4">
