@@ -91,7 +91,7 @@ const PrivacyPolicyModal = ({ isOpen, onClose }: PrivacyPolicyModalProps) => {
 
             <div className="pt-4 border-t border-white/10">
               <p className="text-gray-500 text-sm leading-relaxed">
-                Disclaimer: Spynect is not affiliated with, endorsed by, or sponsored by Apple or 
+                Disclaimer: Spyface.live is not affiliated with, endorsed by, or sponsored by Apple or 
                 any of its affiliates or subsidiaries. This is a simulation for entertainment 
                 purposes only. All trademarks, service marks, trade names, trade dress, product 
                 names and logos appearing on the site are the property of their respective owners.
